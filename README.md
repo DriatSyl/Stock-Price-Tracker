@@ -12,8 +12,9 @@ Erstellt als Lernprojekt, um Python, Datenanalyse und Visualisierung zu üben.
 - Visualisierung mit Matplotlib (inkl. MAs im Chart)
 
 ---
+## Beispiel-Screenshot
 
-![Stock Chart Example](./screenshot.png)
+![Stock Chart Example](assets/screenshot.png)
 
 ## ▶️ Nutzung
 
