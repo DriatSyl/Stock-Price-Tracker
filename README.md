@@ -13,6 +13,8 @@ Erstellt als Lernprojekt, um Python, Datenanalyse und Visualisierung zu üben.
 
 ---
 
+![Stock Chart Example](./screenshot.png)
+
 ## ▶️ Nutzung
 
 ### 1. Abhängigkeiten installieren
